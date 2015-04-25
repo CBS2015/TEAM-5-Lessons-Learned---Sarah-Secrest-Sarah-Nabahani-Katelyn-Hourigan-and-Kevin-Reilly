@@ -1,0 +1,29 @@
+#What to Look for When Hiring a Software Developer
+
+As an executive in the digital world, you will most likely come across the need to hire a software developer.
+As we discussed in the third class, there are several key things to look for, questions to ask, and actions you should take in order to make the best choice possible:
+
+1. Reach out to people you know you can’t hire and have them recommend 2 – 3 people
+
+2. Go to a conference related to your project and ask speakers to recommend people
+
+3. Get references from other developers
+
+4. Get off-book references from clients, past managers and direct reports
+
+5. Ask for previous work examples
+
+6. Ask them to write some example code (try the Fizz Buzz test)
+
+7. Can they bring an “A” team with them?
+![Alt Text](http://www.nbc.com/sites/nbcunbc/files/files/NBC-The-A-Team-Keyart.jpg)
+
+8. Test their problem solving skills (a key skill for pragmatic programmers)
+
+9. Ask them to explain something technical to see if they can translate programing language into “English” (a great skill for communicating with the business units they will be working with)
+
+10. See if they would be a good culture fit for both the organization and engineers
+
+11. Ask them the number of coding languages they know (should be more than 1)
+
+12. Ask for their [GitHub](www.github.com) profile!
