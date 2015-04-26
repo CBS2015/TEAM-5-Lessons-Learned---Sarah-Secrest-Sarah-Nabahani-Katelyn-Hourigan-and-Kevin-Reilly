@@ -32,3 +32,5 @@ As we discussed in the third class, there are several key things to look for, qu
 13. Ask for their [GitHub](www.github.com) profile!
 
 As a final note, something to keep in mind during the hiring process: Managers frequently want to lock in a fixed bid for the work, but oftentimes an hourly bid will more closely align managers and developers and yield the best results overall.
+
+by Sarah Secrest
