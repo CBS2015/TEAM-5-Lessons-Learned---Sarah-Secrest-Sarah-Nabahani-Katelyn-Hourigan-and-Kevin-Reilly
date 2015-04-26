@@ -27,6 +27,8 @@ As we discussed in the third class, there are several key things to look for, qu
 
 11. Ask them the number of coding languages they know (should be more than 1)
 
-12. Ask for their [GitHub](www.github.com) profile!
+12. Talk about hobbies or simply look at the person you are interviewing and gauge whether they might have a passion for the product you are ultimately designing for. For example, if it is for shoes, look at their shoes and ask them about their shoe choice. Maybe they like trendy shoes and that is what your end product is.
+
+13. Ask for their [GitHub](www.github.com) profile!
 
 As a final note, something to keep in mind during the hiring process: Managers frequently want to lock in a fixed bid for the work, but oftentimes an hourly bid will more closely align managers and developers and yield the best results overall.
