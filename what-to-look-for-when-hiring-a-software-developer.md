@@ -14,6 +14,7 @@ As we discussed in the third class, there are several key things to look for, qu
 5. Ask for previous work examples
 
 6. Ask them to write some example code (try the Fizz Buzz test)
+![Alt Text](http://programmingnotes.freeweq.com/wp-content/uploads/2012/05/FizzBuzz.jpg)
 
 7. Can they bring an “A” team with them?
 ![Alt Text](http://www.nbc.com/sites/nbcunbc/files/files/NBC-The-A-Team-Keyart.jpg)
